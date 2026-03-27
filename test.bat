@@ -1,4 +1,5 @@
 ===== PIPELINE JENKINS ===== 
-Build en cours... 
-Test OK 
-Deploy simulé 
+echo Build en cours... 
+echo Test OK 
+echo Deploy simulé 
+echo Nouveau build déclenché automatiquement
